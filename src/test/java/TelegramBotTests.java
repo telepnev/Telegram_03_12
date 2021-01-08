@@ -32,8 +32,8 @@ public class TelegramBotTests {
     public void testPositive13() {
         assertTrue(true);
     }
+
     @Test
-    @Disabled
     public void testPositive14() {
         assertTrue(true);
     }
