@@ -25,6 +25,10 @@ public class TelegramBotTests {
     public void testNegative2() {
         assertTrue(false);
     }
+    @Test
+    public void testNegative24() {
+        assertTrue(false);
+    }
 
 
     @Test
